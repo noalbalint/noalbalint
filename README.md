@@ -17,13 +17,18 @@ Here are some ideas to get you started:
 
 Hi, Noal here.
 <br><br><br>
-📍 Originally from a very small island in Canada, but I live in Austria at the moment (its a long story) <br>
+📍 Currently living in Graz, Austria <br>
 
-👨‍💻 Building Vue frontends with Echosec Systems since 2019 <br>
+:hatching_chick: Originally from a small island in BC, Canada (pop. 900) <br>
 
-🌱 Currently learning React through my [side project](https://www.instantlessonplan.com/) (still in beta) <br>
+🌱 Learning React through a [side project](https://www.instantlessonplan.com/) (still in beta) <br>
 
-🏔 I try to get outside as much as possible to offset all the screen hours<br>
+🏔 Trying to get outside as much as possible to offset all the screen hours <br>
   
-💭 Prefer to skip the smalltalk and go straight to the deep stuff
+💭 Like to talk about human behaviour and where we're collectively headed <br>
+
+👨‍💻 Building frontends with Echosec Systems since 2019
+- Vue, Vuex, Typescript, Less, Jest, Axios
+- Passionate about user experiences
+- Prefer to fix existing features than to ship new mvps. 
 
