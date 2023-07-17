@@ -31,5 +31,5 @@ Hi, Noal here.
 - Vue, Vuex, Typescript, Less, Jest, Axios, etc
 - Passionate about user experiences
 - Incremental improvement
-- [Grug brained](https://grugbrain.dev/)https://grugbrain.dev/ 
+- [Grug brained](https://grugbrain.dev/)
 
