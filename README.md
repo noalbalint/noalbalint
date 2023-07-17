@@ -16,19 +16,20 @@ Here are some ideas to get you started:
 -->
 
 Hi, Noal here.
-<br><br><br>
+<br><br>
 📍 Currently living in Graz, Austria <br>
 
-:hatching_chick: Originally from a small island in BC, Canada (pop. 900) <br>
+:hatching_chick: Originally from a small island in western Canada (pop. 900) <br>
 
 🌱 Learning React through a [side project](https://www.instantlessonplan.com/) (still in beta) <br>
 
 🏔 Trying to get outside as much as possible to offset all the screen hours <br>
   
-💭 Like to talk about human behaviour and where we're collectively headed <br>
+💭 Like to talk about human behaviour, culture, and social systems <br>
 
 👨‍💻 Building frontends with Echosec Systems since 2019
-- Vue, Vuex, Typescript, Less, Jest, Axios
+- Vue, Vuex, Typescript, Less, Jest, Axios, etc
 - Passionate about user experiences
-- Prefer to fix existing features than to ship new mvps. 
+- Incremental improvement
+- [Grug brained](https://grugbrain.dev/)https://grugbrain.dev/ 
 
