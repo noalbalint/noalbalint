@@ -11,5 +11,5 @@ Hi, you've reached Noal!
 
 🌱 Teaching myself React through a [side project](https://www.instantlessonplan.com/) (**PRE-beta**) <br>
 
-🏔 Code is awesome, but real life happens off-screen <br>
+🏔 Code is awesome, but real life happens offline <br>
 
