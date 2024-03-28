@@ -1,6 +1,4 @@
-📍 Currently living in Graz, Austria
-
-🌎 Originally from a small island in western Canada (pop. 900) <br>
+📍 From Canada, based in Europe
 
 👨‍💻 Vue.js, Typescript, Less.js, Jest, Cypress, and a tiny bit of many other things
 
