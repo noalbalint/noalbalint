@@ -4,8 +4,6 @@
 
 🏔 Code is great, nature is better
 
-see more at www.noalbalint.com
-
 <br>
 
 Echosec Systems
