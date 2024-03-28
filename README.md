@@ -1,10 +1,17 @@
 📍 From Canada, based in Europe
 
-👨‍💻 Vue.js, Typescript, Less.js, Jest, Cypress, and a tiny bit of many other things
+👨‍💻 Web Artisan (frontend dev with UX/UI focus)
 
-🔑 Passionate about UX (and ergonomics in general)
+🏔 Code is great, nature is better
 
-🏔 Code is awesome, but real life happens offline
+see more at www.noalbalint.com
 
-Echosec Systems 2019-2024 <br>
-Parkside Interactive 2024-current
+<br>
+
+Echosec Systems
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+2019-2024 
+
+Self Directed
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+2024-current
