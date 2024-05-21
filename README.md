@@ -1,6 +1,6 @@
 📍 From Canada, based in Europe
 
-👨‍💻 Web Artisan (frontend dev with UX/UI focus)
+👨‍💻 Frontend developer (vue/ts)
 
 🏔 Code is great, nature is better
 
