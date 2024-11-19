@@ -2,7 +2,7 @@
 
 👨‍💻 Frontend developer (vue/ts)
 
-🏔 Code is great, nature is better
+🏔 Code is great, earth is better
 
 <br>
 
