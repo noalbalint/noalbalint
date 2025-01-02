@@ -1,4 +1,4 @@
-📍 From Canada, based in Europe
+📍 From Galiano Island, Canada
 
 👨‍💻 Frontend developer (vue/ts)
 
